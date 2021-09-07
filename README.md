@@ -2,7 +2,7 @@
 Construct virulence-related gene association network
 ## Installation
 Simply download and extract the zip archive or clone the git repository:
-git clone https://github.com/liyangjie/MANtpp
+   git clone https://github.com/liyangjie/MANtpp
 
 and you're ready to use MANtpp.
 
